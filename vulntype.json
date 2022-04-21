@@ -1,0 +1,23 @@
+{
+    "quickFilter": "OPEN",
+    "modules": [],
+    "servers": [],
+    "filterTags": [],
+    "severities": [
+        "CRITICAL",
+        "HIGH"
+    ],
+    "status": [],
+    "substatus": [],
+    "vulnTypes": [],
+    "environments": [],
+    "urls": [],
+    "sinks": [],
+    "securityStandards": [],
+    "appVersionTags": [],
+    "routes": [],
+    "tracked": false,
+    "untracked": false,
+    "applicationTags": [],
+    "licensedOnly": false
+}

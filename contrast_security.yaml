@@ -1,0 +1,6 @@
+api:
+  url: CONTRAST_URL
+  api_key: CONTRAST_API_KEY
+  service_key: CONTRAST_SERVICE_KEY
+  user_name: CONTRAST_USER_NAME
+  organization_id: CONTRAST_ORGANIZATION_ID

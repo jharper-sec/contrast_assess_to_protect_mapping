@@ -1,0 +1,58 @@
+{
+    "reflected-xss": {
+        "protect_rule": "reflected-xss",
+        "protect_rule_status": "protection"
+    },
+    "expression-language-injection": {
+        "protect_rule": "expression-language-injection",
+        "protect_rule_status": "protection"
+    },
+    "hql-injection": {
+        "protect_rule": "sql-injection",
+        "protect_rule_status": "protection"
+    },
+    "nosql-injection": {
+        "protect_rule": "nosql-injection",
+        "protect_rule_status": "beta_protection"
+    },
+    "nosql-injection-dynamodb": {
+        "protect_rule": "nosql-injection",
+        "protect_rule_status": "beta_protection"
+    },
+    "cmd-injection": {
+        "protect_rule": "cmd-injection",
+        "protect_rule_status": "protection"
+    },
+    "path-traversal": {
+        "protect_rule": "path-traversal",
+        "protect_rule_status": "protection"
+    },
+    "redos": {
+        "protect_rule": "redos",
+        "protect_rule_status": "beta_protection"
+    },
+    "sql-injection": {
+        "protect_rule": "sql-injection",
+        "protect_rule_status": "protection"
+    },
+    "ssrf": {
+        "protect_rule": "ssrf",
+        "protect_rule_status": "protection"
+    },
+    "unsafe-code-execution": {
+        "protect_rule": "ssjs-injection",
+        "protect_rule_status": "beta_protection"
+    },
+    "untrusted-deserialization": {
+        "protect_rule": "untrusted-deserialization",
+        "protect_rule_status": "protection"
+    },
+    "verb-tampering": {
+        "protect_rule": "method-tampering",
+        "protect_rule_status": "protection"
+    },
+    "xxe": {
+        "protect_rule": "xxe",
+        "protect_rule_status": "protection"
+    }
+}
