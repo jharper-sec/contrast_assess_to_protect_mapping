@@ -1,3 +1,9 @@
+# Introduction
+Maps Assess Vulnerabilities to Protect Rules and Generates Corresponding CSV Files
+
+# Prerequisites
+* Python 3.x
+
 # Quick Start
 1. Install Dependencies
 ```bash
@@ -20,3 +26,10 @@ Enter the following command to run
 ```bash
 python3 main.py
 ```
+
+4. Two CSV files will be generated
+* `protect_vulnerability_mapping.csv`
+* `protection_statuses.csv`
+
+# Troubleshooting
+Logging is not very robust yet, but there should be some information within the `contrast.log` file if you run into issues.
